@@ -17,27 +17,6 @@ Per-application models (including Isolation Forest on its own) miss the most dam
 
 ---
 
-## Status
-
-| Module | Status |
-|---|---|
-| Synthetic data generator (normal + injected fraud rings) | ☐ Planned |
-| Identifier hashing + ingestion | ☐ Planned |
-| Identity graph builder (NetworkX) | ☐ Planned |
-| Graph features + community detection | ☐ Planned |
-| Rule engine | ☐ Planned |
-| Isolation Forest anomaly score | ☐ Planned |
-| Score fusion + reason codes | ☐ Planned |
-| FastAPI scoring + alert endpoints | ☐ Planned |
-| Analyst queue + status workflow | ☐ Planned |
-| Evaluation + latency benchmark | ☐ Planned |
-| Docker + CI + tests | ☐ Planned |
-| Integration with [LoanFlow](../loanflow) | ☐ Planned |
-
-*(Tick these off as you build. Only claim what is checked.)*
-
----
-
 ## Architecture
 
 ```mermaid
